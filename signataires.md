@@ -1,1 +1,2 @@
-Fabien Lamarque
+- Fabien Lamarque
+- Thomas Pierrain
