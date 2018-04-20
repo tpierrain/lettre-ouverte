@@ -3,7 +3,7 @@
 ## Objectifs : 
 Sensibiliser l’opinion publique et nos politiques aux risques/dangers qu’il y a à continuer a laisser les GAFAM a nous espionner et voler toutes nos données (ce qui se passe en general dès lors qu’une appli ou un service est « gratuit »).
 
-Une lettre signée par un collectif de professionnels de l’informatique qui mets en garde nos politiques et citoyens sur ce qui est en train de se mettre en place dans notre dos dans la Silicon Valley
+Une lettre signée par un collectif de professionnels de l’informatique qui mets en garde nos politiques et citoyens sur ce qui est en train de se mettre en place dans notre dos depuis la Silicon Valley
 
 #### [Signataires](signataires.md)
 
