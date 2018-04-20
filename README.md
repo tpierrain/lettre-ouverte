@@ -14,12 +14,13 @@ Sur la forme, ce pourrait être une mini nouvelle qui anticiperai sur notre futu
 
     (Disclaimer de Thomas : quand j’écris’ j’itère bcp, donc les phrases proposées ici sont tres susceptibles de changer/disparaitre ;-)
 
-C’est en me réveillant hier matin que je compris ce qui c’était passé pour moi les jours précédents. Comme une évidence. Un peu comme un lendemain de fête. Sauf qu’il n’y avait eu aucune fête ici. Aucune invitation. Aucun convive autre que ces algos que l’on oublie mais qui nous écoutent désormais toute la journée a travers nos écrans, nos montres, nos bracelets de running ou nos téléphones. Ils n’oublient jamais rien eux. 
+C’est en me réveillant ce matin que je compris ce qui c’était passé pour moi les jours précédents. Comme une évidence. Un peu comme un lendemain de fête aussi. Sauf qu’il n’y avait eu aucune fête. Aucune invitation. Aucun convive autre que ces algos que l’on oublie mais qui nous écoutent désormais toute la journée a travers nos écrans, nos montres, nos bracelets de running ou nos téléphones. Ils n’oublient jamais rien eux. 
 
 Comment avais-je pu en arriver là ? Ce printemps avait pourtant commencée sans histoire. Certes je ne suis pas ce qu’ils appellent un “citoyen modèle”, mais pas non plus un fauteur de trouble. Père de famille aimant et quarantenaire légèrement bedonnant, je suis les règles. Je râle souvent -c’est vrai- mais comme tout bon français, ni plus ni moins. 
 
-Comment cette cascade d’événements et de décisions avait-elle pu s’enclencher pour moi en aussi peu de temps et me mener moi et ma petite famille dans cette situation impossible. Avec le recul maintenant je le sais, tout a commencé lorsque nous sommes allés diner ma femme et moi chez nos amis Vincent et Sophie. 
-Nous avions particulièrement bien arrosé le repas ce soir là, et le niveau sonore plus élevé que d’habitude dans leur appartement avait du déclencher une attention encore plus particulière de leur boitier Goo-gle.
+Comment cette cascade d’événements et de décisions avait-elle pu s’enclencher pour moi en aussi peu de temps et me mener avec ma petite famille dans cette situation impossible. Avec le recul maintenant j´en suis convaincu, tout a commencé lorsque nous sommes allés diner ma femme et moi chez nos amis Vincent et Sophie. 
+Nous avions particulièrement bien arrosé notre repas ce soir là, et le niveau sonore plus élevé que d’habitude dans leur appartement avait du déclencher une attention encore plus particulière de leur boitier big-G. C´est Sophie qui avait lancé le sujet en me parlant de mon aspect actuel : "tu n'aurais pas un peu grossi toi d´aillleurs ?" me lança t-elle au moment ou Vincz et moi discutions de l´arrivée prochaine des vacances et de la dictature des régimes amincissants actuellement dans tous les media. "Moi j'en ai marre de leurs injonctions a maigrir" avais-je repondu. "J'ai d'ailleurs décidé d'arrêter le courrir le matin. Ça me saoule depuis que je me suis blessé au genou, ce n´est que souffrance un peu partout. il faudrait que j'aille voir un osthéo, mais je n'ai pas le temps en ce moment".
+
 
 
 
