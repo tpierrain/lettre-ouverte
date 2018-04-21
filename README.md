@@ -9,10 +9,11 @@ Une lettre signée par un collectif de professionnels de l’informatique qui me
 
 Sur la forme, ce pourrait être une mini nouvelle qui anticiperai sur notre futur probable (les histoires parlent beaucoup plus au gens que les manifestes politiques). On pourrait éventuellement y rajouter un court épilogue qui ferait le lien avec notre present et sui conclurait avec un call for action : ne vous bradez pas en confiant tous les details de votre vie privée contre des applis gratuites et considérez des alternatives aux GAFAM a qui il va falloir donner leur chance (si on veut sortir de ce cauchemar annoncé). 
 
+    (Disclaimer de Thomas : quand j’écris j’itère bcp, donc les phrases proposées ici sont tres susceptibles de changer/disparaitre ;-)
+
+---
 
 ## Le jour ou tout a basculé
-
-    (Disclaimer de Thomas : quand j’écris’ j’itère bcp, donc les phrases proposées ici sont tres susceptibles de changer/disparaitre ;-)
 
 C’est en me réveillant ce matin que je compris ce qui c’était passé pour moi les jours précédents. Comme un flash, comme une évidence. Un peu comme un lendemain de fête aussi. Sauf qu’il n’y avait eu aucune fête. Aucune invitation. Aucun convive autre que ces algos que l’on oublie mais qui nous écoutent désormais toute la journée a travers nos écrans, nos montres, nos bracelets de running ou nos téléphones. Ils n’oublient jamais rien eux. 
 
@@ -22,10 +23,13 @@ Avec le recul maintenant j'en suis persuadé, tout a commencé ce soir où nous 
 
 Parler aussi ouvertement de sa santé dans un lieu public, certains illuminés commencaient à expliquer sur le cloud à quel point c'était imprudent rapport aux investissements massifs de BiG-Mother-G dans les assurances et la banque. Mais nous étions chez nos amis, et j'étais vraiment persuadé que tout ceci allait rester entre-nous malgré la passion de Sophie pour les réseaux sociaux et son penchant pour les selfies a tout bout de champs. A part scruter ses likes compulsivement sur son écran, elle n'avait rien fait de tel ce soir-là, du moins c'est ce dont je me souvenais. Mais peut-être ne la voyais-je plus faire à force. Serait-il possible que l'usure du quotidien ne touche  pas uniquement le travail ou la vie de couple, mais aussi notre capacité d'observation et de discernement ? En tout cas je n'avais rien observé de particulier dans l'usage de son CloudPhone ce soir-là. Au pire, je me serai attendu à recevoir une tonne de pubs et de spams pour des produits protéinés ou des mixtures amincissantes pendant un bon mois sur tous mes écrans. Mais rien de tout ce qui s'ensuivit les jours d'après.
 
+---
 NOTE : le terme *BiG-MOTHER-G* fait référence au terme *Big Mother* proposé par Philippe Vion-Dury dans son essai intitulé « La nouvelle servitude volontaire » pour remplacer le *Big Brother* de George Orwell. Certains pourront y reconnaitre un moteur de recherche bien connu qui s'occupe de tout pour nous...
 
-Pour continuer sur le sujet :
+### Pour continuer sur le sujet :
 - https://comptoir.org/2016/10/28/philippe-vion-dury-le-vrai-visage-de-la-silicon-valley-cest-celui-du-capitalisme-predateur/
+
+---
 
     Draft pour les événements ?
     - Arrêt du jogging
