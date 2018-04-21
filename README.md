@@ -18,7 +18,7 @@ C’est en me réveillant ce matin que je compris ce qui c’était passé pour 
 
 Comment avais-je pu en arriver là ? Ce printemps avait pourtant commencée sans histoire. Certes je ne suis pas ce qu’ils appellent un “citoyen modèle”, mais pas non plus un fauteur de trouble. Père de famille aimant et quarantenaire légèrement bedonnant, je suis les règles. Je râle souvent -c’est vrai- mais comme tout bon français, ni plus ni moins. 
 
-Comment cette méchanique infernale avait-elle pu s’enclencher pour moi et ma petite famille en aussi peu de temps... Avec le recul maintenant j´en suis persuadé, tout avait commencé lorsque nous sommes allés diner chez nos amis Vincent et Sophie ma femme et moi. Il faut dire que nous avions particulièrement bien arrosé notre repas ce soir là, et le niveau sonore plus élevé que d’habitude dans leur appartement avait du déclencher une attention encore plus particulière de leur boitier big-G. C´est Sophie qui avait pourtant lancé le sujet en me parlant de mon aspect actuel : "tu n'aurais pas un peu grossi toi d´aillleurs ?" me lança t-elle au moment ou Vincz et moi discutions de l´arrivée prochaine des vacances et de la dictature des régimes amincissants dans tous les media. "Moi j'en ai marre de leurs injonctions à maigrir" avais-je répondu. "Ca ne va pas s'arranger d'ailleurs, car j'ai décidé d'arrêter le courir le matin. Ça me saoule depuis que je me suis blessé au genou, ce n´est que souffrance à chaque fois. Il faudrait sans doute que j'aille voir un osthéo, mais je n'ai vraiment pas le temps en ce moment". 
+Comment cette méchanique infernale avait-elle pu s’enclencher pour moi et ma petite famille en aussi peu de temps... Avec le recul maintenant j´en suis persuadé, tout a commencé ce soir où nous sommes allés diner chez nos amis Vincent et Sophie ma femme et moi. Il faut dire que nous avions particulièrement bien arrosé notre repas ce soir là, et le niveau sonore plus élevé que d’habitude dans leur appartement avait du déclencher une attention encore plus particulière de leur boitier big-G. C´est Sophie qui avait pourtant lancé le sujet en me parlant de mon aspect actuel : "tu n'aurais pas un peu grossi toi d´aillleurs ?" me lança t-elle au moment ou Vincz et moi discutions de l´arrivée prochaine des vacances et de la dictature des régimes amincissants dans tous les media. "Moi j'en ai marre de leurs injonctions à maigrir" avais-je répondu. "Ca ne va pas s'arranger d'ailleurs, car j'ai décidé d'arrêter le courir le matin. Ça me saoule depuis que je me suis blessé au genou, ce n´est que souffrance à chaque fois. Il faudrait sans doute que j'aille voir un osthéo, mais je n'ai vraiment pas le temps en ce moment". 
 
 Parler aussi ouvertement de sa santé dans un lieu public, tout le monde sait que c'est imprudent. Mais nous étions chez nos amis, et j'étais vraiment persuadé que tout ceci allait rester entre-nous. Au pire, je me serai attendu à recevoir une tonne de pubs et de spams pour des produits protéinés ou des mixtures amincissantes pendant un bon mois. Mais pas tout ce qui arriva les jours d'après.
 
@@ -26,11 +26,11 @@ Parler aussi ouvertement de sa santé dans un lieu public, tout le monde sait qu
 
 
     Draft pour les événements ?
-- Arrêt du jogging
-- Discussion chez des amis équipés d’une google box.
-- Plus assuré par son assureur pour comportement a risque détecté
-- Blacklisté pour les reservations de vacances
-- Augmentation subite du taux pour le prêt étudiante de son fils. 
-- Paiement pour une reservation de vacances qui ne passe pas. 
-- Suspension automatique de permis jusqu’à prochaine visite médicale par google device. 
-- Accident de la route -> paies toute sa vie. 
+    - Arrêt du jogging
+    - Discussion chez des amis équipés d’une google box.
+    - Plus assuré par son assureur pour comportement a risque détecté
+    - Blacklisté pour les reservations de vacances
+    - Augmentation subite du taux pour le prêt étudiante de son fils. 
+    - Paiement pour une reservation de vacances qui ne passe pas. 
+    - Suspension automatique de permis jusqu’à prochaine visite médicale par google device. 
+    - Accident de la route -> paies toute sa vie. 
