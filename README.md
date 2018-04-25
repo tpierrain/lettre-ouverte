@@ -1,15 +1,17 @@
-# Lettre ouverte aux politiques, aux journalistes
+# Lettre ouverte a nos concitoyens
 
 ## Objectifs : 
-Sensibiliser l’opinion publique et nos politiques aux risques/dangers qu’il y a à continuer a laisser les GAFAM a nous espionner et voler toutes nos données (ce qui se passe en general dès lors qu’une appli ou un service est « gratuit »).
+Sensibiliser l’opinion publique et nos politiques aux risques/dangers qu’il y a à continuer à laisser les GAFAM à nous espionner et voler toutes nos données (ce qui se passe en general dès lors qu’une appli ou un service est « gratuit »).
 
-Une lettre signée par un collectif de professionnels de l’informatique qui mets en garde nos politiques et citoyens sur ce qui est en train de se mettre en place dans notre dos depuis la Silicon Valley
+__Une lettre signée par un collectif de professionnels de l’informatique qui mets en garde nos politiques et citoyens sur ce qui est en train de se mettre en place dans notre dos depuis la Silicon Valley__
 
 #### [Signataires](signataires.md)
 
-Sur la forme, ce pourrait être une mini nouvelle qui anticiperai sur notre futur probable (les histoires parlent beaucoup plus au gens que les manifestes politiques). On pourrait éventuellement y rajouter un court épilogue qui ferait le lien avec notre present et sui conclurait avec un call for action : ne vous bradez pas en confiant tous les details de votre vie privée contre des applis « gratuites » et considérez des alternatives aux GAFAM a qui il va falloir donner leur chance (si on veut sortir de ce cauchemar annoncé). 
+Sur la forme, ce pourrait être une mini nouvelle qui anticiperai sur notre futur probable (les histoires parlent beaucoup plus au gens que les manifestes politiques). On pourrait éventuellement y rajouter un court épilogue qui ferait le lien avec notre présent et qui conclurait avec un *call for action* qui reste a définir (pas trop ambitieux pour être concret et actionnable)
 
-   (Disclaimer de Thomas : quand j’écris j’itère bcp, donc les phrases proposées ici sont tres susceptibles de changer/disparaitre ;-)
+Piste : ne vous bradez pas vous-même en confiant tous les détails de votre vie privée contre des applis ou services « gratuits ». Considérez des alternatives aux GAFAM a qui il va falloir donner leur chance (si on veut sortir de ce cauchemar annoncé). 
+
+      (Disclaimer de Thomas : quand j’écris j’itère bcp, donc les phrases proposées ici sont tres susceptibles de changer/disparaitre ;-)
 
 ---
 
@@ -48,14 +50,16 @@ Je n’allais rien agréer du tout Monsieur la préfecture ! Allons bon, mainten
 
 « Calme-toi moi amour, il y a sans doute une erreur. As-tu pu vérifier pour nos vacances comme je te l’avais demandé ? » (...) 
 
-J’avais bien fait de m’isoler de mes collègues. La violence de ma reaction sembla faire vibrer les murs de la salle de réunion dans laquelle je m’étais réfugié pour passer cet appel. « Mais de quoi tu me parles ?!? Je te dis que je ne suis plus assuré nulle part, qu’on vient de me retirer mon permis et de me mettre sur une liste noire des consommateurs non fiables et tout ce que tu trouves a dire c’est où en est cette foutue réservation de maison pour nos vacances ? T’es sérieuse ?!? ... Et puis comment je vais faire pour aller chercher les enfants après le boulot si je n’ai plus le droit de conduire la voiture ? » Elle attendit que le silence soit bien installé entre nous après ma réaction épidermique avant de reprendre la parole. Elle savait maitriser ce timing comme personne. J’étais comme un petit garçon qui attendait la suite, accroché à ce qu’elle allait me dire. Elle pris la parole calmement : « Ecoute chéri, on va regarder ça ce soir tranquillement tous les deux. D’ici là, tu prends la voiture, tu vas chercher les enfants chez la nounou comme si de rien n’était. Et cette fois-ci tu vas conduire en faisant encore plus attention que d’habitude. Il ne t’es jamais rien arrivé au volant depuis que je te connais, ce serait quand meme incroyable que tu ai un accident aujourd’hui, non ? Ok, tu rentres à la maison et on en reparle. D’accord chéri ? Chéri : c’est d’accord ? » 
+J’avais bien fait de m’isoler de mes collègues. La violence de ma réaction sembla faire vibrer les murs de la salle de réunion dans laquelle je m’étais réfugié pour passer cet appel. « Mais de quoi tu me parles ?!? Je te dis que je ne suis plus assuré nulle part, qu’on vient de me retirer mon permis et de me mettre sur une liste noire des consommateurs non fiables et tout ce que tu trouves a dire c’est où en est cette foutue réservation de maison pour nos vacances ? T’es sérieuse ?!? ... Et puis comment je vais faire pour aller chercher les enfants après le boulot si je n’ai plus le droit de conduire la voiture ? » Elle attendit que le silence soit bien installé entre nous après ma réaction épidermique avant de reprendre la parole. Elle savait maitriser ce timing comme personne. J’étais comme un petit garçon qui attendait la suite, accroché à ce qu’elle allait me dire. Elle pris la parole calmement : « Ecoute chéri, on va regarder ça ce soir tranquillement tous les deux. D’ici là, tu prends la voiture, tu vas chercher les enfants chez la nounou comme si de rien n’était. Et cette fois-ci tu vas conduire en faisant encore plus attention que d’habitude. Il ne t’es jamais rien arrivé au volant depuis que je te connais, ce serait quand meme incroyable que tu ai un accident aujourd’hui, non ? Ok, tu rentres à la maison et on en reparle. D’accord chéri ? Chéri : c’est d’accord ? » 
 
-Elle avait réussi a me calmer et me faire respirer un instant. Je repassai par mon bureau pour prendre ma veste et les clés, et me dirigea vers ma voiture pour aller chercher les enfants beaucoup plus tôt que d’habitude. Avant le gros des bouchons. 
+Elle avait réussi a me calmer et me faire respirer un instant. Je repassai rapidement  par mon bureau pour prendre ma veste et mes clés, et me dirigea a toute vitesse vers ma voiture pour aller chercher les enfants. Beaucoup plus tôt que d’habitude. Avant le gros des bouchons.
+
+D’ordinaire prudent au volant, je m’empressai maintenant de rejoindre au plus vite la crèche où se trouvait notre petit dernier. Il faut dire que l’absence de bouchon à cette heure me permit d’aller beaucoup plus vite qu’à l’accoutumée. Ces boulevards d’habitude complètement congestionnés présentaient pour une fois un visage inédit : vides et silencieux. J’étais comme sur un circuit de jeu vidéo sur lequel j’effectuais mon dernier tour juste après avoir semé tout le monde; je me projetais déjà sur la prochaine course. Qu’allais-je devenir sans aucune assurance dans notre société de plus en plus frileuse (et de moins en moins solidaire) ? Si je n’étais plus couvert en cas d’accident au volant, comment allais-je pouvoir aller au travail tous les jours avec ces 1h30 de transport en commun à l’aller et la même chose pour le retour ? Quelle connerie : à vol d’oiseau ou en voiture c’est tellement plus rapide, mais avec toutes ces correspondances... comment allions-nous nous organiser ma femme et moi meme pour concilier notre vie de famille et notre travail ? C’est en réfléchissant à cette dernière question que je perdis ma course. Le camion me percuta de pleins fouet par la gauche, laissant tout juste le temps a mon airbag latéral de se gonfler, et de m’envoyer une telle décharge d’énergie que je perdis connaissance avant que mon véhicule ne s’arrête de virevolter sur l’asphalte. 
 
 (à suivre)
 
 ---
-NOTE : le terme *BiG-MOTHER-G* fait référence au terme *Big Mother* proposé par Philippe Vion-Dury dans son essai intitulé « La nouvelle servitude volontaire » pour remplacer le *Big Brother* de George Orwell. Certains pourront y reconnaitre un moteur de recherche bien connu qui commence a s'occuper de tout pour nous ... (information, videos, GPS et guidage de voitures, mails, cloud- donc nos data, santé, assurance, ....)
+NOTE : le terme *BiG-MOTHER-G* fait référence au terme *Big Mother* proposé par Philippe Vion-Dury dans son essai intitulé « La nouvelle servitude volontaire » pour remplacer le *Big Brother* de George Orwell. Certains pourront y reconnaitre un moteur de recherche bien connu qui commence a s'occuper de tout pour nous  (information, videos, GPS et guidage de voitures, mails, cloud- donc nos data, santé, assurance, ....). 
 
 
 
@@ -63,6 +67,7 @@ NOTE : le terme *BiG-MOTHER-G* fait référence au terme *Big Mother* proposé p
  - La nouvelle servitude volontaire, enquête sur le projet politique de la Silicon Valley (Philippe Vion-Dury)  https://livre.fnac.com/a9881308/Philippe-Vion-Dury-La-nouvelle-servitude-volontaire
  - S.O.S Bonheur (Griffo - Van Hamme)  https://www.dupuis.com/s-o-s-bonheur-integrale/bd/s-o-s-bonheur-integrale-s-o-s-bonheur-edition-integrale/2411
  - Black mirror (série TV): https://fr.m.wikipedia.org/wiki/Black_Mirror_(série_télévisée)
+ - Dernières nouvelles du futur (Patrice Franceschi) https://www.grasset.fr/dernieres-nouvelles-du-futur-9782246815037
 
 
 
@@ -78,4 +83,3 @@ NOTE : le terme *BiG-MOTHER-G* fait référence au terme *Big Mother* proposé p
    - Paiement pour une reservation de vacances qui ne passe pas. 
    - Suspension automatique de permis jusqu’à prochaine visite médicale par google device. 
    - Accident de la route -> paies toute sa vie. 
-
